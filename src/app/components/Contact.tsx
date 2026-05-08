@@ -1,5 +1,5 @@
 import React from "react";
-import { motion } from "motion/react";
+import { motion } from "framer-motion";
 import { Send, Instagram, Linkedin, Github, Mail, MapPin } from "lucide-react";
 
 export const Contact: React.FC = () => {

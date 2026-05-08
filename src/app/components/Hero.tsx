@@ -1,6 +1,6 @@
 import React from "react";
 declare module "*.jpeg";
-import { motion } from "motion/react";
+import { motion } from "framer-motion";
 import { ArrowRight, Download } from "lucide-react";
 import fotoSaya from "../../assets/foto-saya.jpeg";
 

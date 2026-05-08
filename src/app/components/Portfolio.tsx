@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { motion, AnimatePresence } from "motion/react";
+import { motion, AnimatePresence } from "framer-motion";
 import Masonry, { ResponsiveMasonry } from "react-responsive-masonry";
 import WebCate from "../../assets/catering.jpeg";
 import DesignGrap from "../../assets/design.jpeg";

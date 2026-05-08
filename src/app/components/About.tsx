@@ -1,5 +1,5 @@
 import React from "react";
-import { motion } from "motion/react";
+import { motion } from "framer-motion";
 import { Briefcase, Paintbrush, Code2, LineChart, Camera, MonitorSmartphone } from "lucide-react";
 
 export const About: React.FC = () => {
